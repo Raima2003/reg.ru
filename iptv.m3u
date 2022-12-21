@@ -1,0 +1,581 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz,https://ottiptv.ru/epg.xml.gz"
+
+
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif",Обновление:20.12.2022
+https://drive.google.com/uc?export=download&id=1GURBIIwDEoJoUiZ-tPubo5q_x9p54E61
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/jjkkG8Pc/Imagem-Telegram-Logo-PNG-Preto.png",https://t.me/IPTV_FREE_NEONET
+https://drive.google.com/uc?export=download&id=1nWk_eLR6bw7kdGWy50ftULkuCu_NFdPa
+
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/efir/pervyj.png",Первый канал HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/PERVIY/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="https://iptvxpix.ml/ont-by.png",ОНТ (BY)
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/ontbelarus/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/efir/rossia1.png",Россия 1 HD
+http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/RUSSIA1/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/federal/rossia-24.png",Россия 24
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/rossiya_24/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/federal/kultura.png",Россия К
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/rossiya_k/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/efir/ntv-white.png",НТВ HD
+http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/ntvhd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/efir/tvcentr.png",ТВЦ HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/TVC/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/efir/rentv.png",Рен ТВ HD
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/RENTV/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/efir/zvezda.png",Звезда HD
+http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/ZVEZDA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/efir/zvezda-plus.png",Звезда Плюс HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/zvezdaplus/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/federal/tv3-ru.png",ТВ3 HD
+http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/TB3/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/show/pyatnica.png",Пятница HD
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/FRIDAY/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/subbota.png",Суббота HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/SUBBOTA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/show/sts.png",СТС HD
+http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/STS_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/show/sts-int.png",СТС International
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/sts_International/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/show/tnt.png",ТНТ HD
+http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/TNT_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/show/tnt-int.png",ТНТ International
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/tnt_International/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/show/tnt4.png",ТНТ4 HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/tnt4/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/efir/mir.png",Мир HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/mir_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/efir/domashny.png",Домашний HD
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/DOM/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/russia-today.png",RTД HD
+http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/RTD_RU/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/efir/izvestia.png",Известия HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/IZVESTIA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/efir/360-news.png",360 Новости
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/360_novosti_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/show/drive.png",Драйв
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/DRIVE/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/show/avto24.png",Авто 24
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/AVTO24/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/efir/zal-suda.png",Зал суда HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/ZALSUDA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/teatr.png",Театр HD
+http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/TEATR_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/show/russky-ekstrim.png",HD REX
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/HDREX/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/baltic/lnk.png",LNK LT
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/LNK_LT/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="https://ottiptv.ru/img/logos/poznanie/kluch.png",Ключ HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/kluch_hd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/nat-geo-wild.png",Nat Geo Wild HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/NatGeoWild/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/discovery-channel.png",Discovery HD
+http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/discovery/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/discovery-science.png",Discovery Science HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/DISCOVERYSCIENCE/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/idxtra.png",Investigation Discovery HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/idxtra/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/animal-planet.png",Animal Planet HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/AnimalPlanet/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/history-hd.png",History HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/HistoryHD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/viasat-history.png",Viasat History HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/VIASATHISTORY/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/viasat-nature-history-hd.png",Viasat Nature/Hitsory HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/VIASATNATUREHISTORY/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/viasat-nature.png",Viasat Nature HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/VIASATNATURE/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/viasat-explore.png",Viasat Explore HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/VIASATEXPLORE/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/travel-adventure.png",Travel+Adventure HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/TRAVELPLUSADVENTURE/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/travel-channel.png",Travel Channel HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/Travel_Channel_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/moya-planeta.png",Моя Планета HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/moyaplanetahd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/show/glazami-turista.png",Глазами туриста HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/GLAZAMITURISTA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/mir-vokrug.png",Мир Вокруг HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/MIRVOKRUG/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/prikluchenia-hd.png",Приключения HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/PRIKLUCHENIA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/nasha-tema.png",Наша Тема HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/nAshA_temA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/v-mire-zhivotnyx.png",В мире животных HD
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/vmirezhivotnix/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/zhivaya-priroda.png",Живая планета HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/JIVAYAPLANETA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/show/oxota-i-rybalka.png",Охота и рыбалка
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/OHOTAIRIBALKA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/oxotnik-i-rybolov.png",Охотник и рыболов HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/ohotnik_rybolov_hd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/dialogi-o-rib.png",Диалоги о рыбалке
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/dialogi/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/show/oxotnik-i-rybolov-hd.png",Рыболов
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/rybolov/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/dikiy.png",Дикий
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/dikiy/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/show/dikaya-oxota-hd.png",Дикая Охота HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/DIKAYAOHOTA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/show/dikaya-rybalka-hd.png",Дикая Рыбалка HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/DIKAYARYBALKA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/arsenaltv.png",Арсенал HD
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/ARSENAL/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/dtx.png",DTX HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/dtx/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/poznanie/avto-plus.png",Авто Плюс
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/Avto_plyus_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/klinovogodi.png",KLI Новогодний HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_NEWYEAR/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/PREMIUM.png",KLI Premium HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_Premium/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/CINEMA.png",KLI Cinema HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_Cinema/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/klifamily.png",KLI Family HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_Family/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/KLIKids.png",KLI Kids FHD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_KIDS/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/klimultiki.png",KLI Мультики FHD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_MULT/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/COMEDY.png",KLI Comedy HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_Comedy/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/kliDrama.png",KLI DRAMA HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_DRAMA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/HISTORY.png",KLI History HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_History/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/kli_action.png",KLI Action HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_ACTION/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/FANTASTICA.png",KLI Fantastic HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_Fantastica/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/klifantasy.png",KLI Fantasy HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_Fantasy/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/kliaction.png",KLI Thriller HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_Thriller/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/KLIHorror.png",KLI Horror FHD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_Horror/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/RUSSIAN.png",KLI Russian HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_Russian/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/KLICCCP.png",KLI СССР HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_SSSR/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/KLIVHS.png",KLI VHS HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_VHS/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/KLIKinosetial.png",KLI Киносерия HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_KINOSERIA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/klidocu.png",KLI Docu HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_Docu/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/klihumor.png",KLI Humor HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_HUMOR/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/MUSIC.png",KLI Music HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_Music/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/kliclub.png",KLI Club HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_Club/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/kliconcert.png",KLI Concert FHD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_Concert/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/HIT90-1.png",KLI HIT90
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_Hit_90/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/KLIRetro.png",KLI Retro HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_Retro/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/klishanson.png",KLI Шансон
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_SHANSON/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/belarus/belarus24.png",Беларусь 24 BY
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/vok_belarus24/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/belarus/belarus1hd.png",Беларусь 1 BY
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/vok_belarus1hd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/belarus/belarus2hd.png",Беларусь 2 BY
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/vok_belarus2hd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/belarus/belarus3hd.png",Беларусь 3 BY
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/vok_belarus3hd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/belarus/belarus4.png",Беларусь 4 BY
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/vok_belarus4_vitebsk/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="KIDS"  tvg-logo="http://ottiptv.ru/img/logos/detskie/mult.png",Мульт HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/MULT/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="KIDS"  tvg-logo="http://ottiptv.ru/img/logos/detskie/karusel.png",Карусель HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/karusel_hd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="KIDS"  tvg-logo="http://ottiptv.ru/img/logos/detskie/sts-kids-hd.png",СТС KIDS HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/CTCKIDSHD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="KIDS"  tvg-logo="http://ottiptv.ru/img/logos/detskie/tip-top.png",Тип-Топ HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/tiptop_kinozal_orig/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="KIDS"  tvg-logo="http://ottiptv.ru/img/logos/ukraina/pixel.png",Пиксель HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/piksel__HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="KIDS"  tvg-logo="http://ottiptv.ru/img/logos/ukraina/plusplus.png",Плюс-плюс HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/plyus_plyus_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="KIDS"  tvg-logo="http://ottiptv.ru/img/logos/detskie/leva.png",Лёва
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/0JvRkdCy0LBIRA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="KIDS"  tvg-logo="http://ottiptv.ru/img/logos/detskie/disney.png",Disney
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/DISNEY/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="KIDS"  tvg-logo="http://ottiptv.ru/img/logos/detskie/pingvin-lolo.png",Телеканал Пингвин
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/malish/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="KIDS"  tvg-logo="http://ottiptv.ru/img/logos/detskie/sovmultf.png",Советские Мультфильмы
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/sovmult/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="KIDS"  tvg-logo="http://ottiptv.ru/img/logos/detskie/mama.png",Мама
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/mama/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="KIDS"  tvg-logo="http://ottiptv.ru/img/logos/detskie/nickelodeon-hd.png",Nickelodeon HD
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/NICKHD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="KIDS"  tvg-logo="http://ottiptv.ru/img/logos/detskie/o_.png",О!
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/O/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="KIDS"  tvg-logo="http://ottiptv.ru/img/logos/detskie/capfantast.png",Капитан Фантастика HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/kapfan/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="KIDS"  tvg-logo="http://ottiptv.ru/img/logos/detskie/jimjam.png",JimJam
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/JIMJAM/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="KIDS"  tvg-logo="http://ottiptv.ru/img/logos/detskie/gulligirl.png",Gulli Girl
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/GULLI/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="KIDS"  tvg-logo="http://ottiptv.ru/img/logos/detskie/ryzhy.png",Рыжий
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/rishiy/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="KIDS"  tvg-logo="http://ottiptv.ru/img/logos/detskie/boomerang.png",Boomerang
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/BOOMERANG/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="KIDS"  tvg-logo="http://ottiptv.ru/img/logos/detskie/v-gostiax-u-skazki.png",В гостях у сказки
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/vgostyaxuskazki/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="KIDS"  tvg-logo="http://ottiptv.ru/img/logos/detskie/cartoon-network.png",Cartoon Network HD
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/CARTOONNETWORK/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="KIDS"  tvg-logo="http://ottiptv.ru/img/logos/detskie/fanhd.png",FAN HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/fan_hd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="KIDS"  tvg-logo="http://ottiptv.ru/img/logos/detskie/unikum.png",Уникум
+http://cdn.ottiptv.fun:8880/bal_c3l8u2d4f9l1a3r7e3/unikum/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="KIDS"  tvg-logo="http://ottiptv.ru/img/logos/detskie/ani.png",Ani
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/YW5p/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="KIDS"  tvg-logo="http://ottiptv.ru/img/logos/detskie/smaylik-tv.png",Смайлик ТВ
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/smAiylik_tv/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/vip-premiere.png",ViP Premiere HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/VIPPREMIERE/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/vip-megahit.png",ViP Megahit HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/VIPMEGAHIT/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/vip-comedy.png",ViP Comedy HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/VIPCOMEDY/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/vip-serial.png",ViP Serial HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/VIPSERIAL/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/tv1000.png",TV 1000 HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/TV1000/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/tv1000-action.png",TV 1000 Action HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/TV1000ACTION/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/tv1000-worldkino.png",TV 1000 World Kino
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/dHYxMDAwX3/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/tv1000-russkoe-kino.png",TV 1000 Русское кино HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/TV1000RUSKINO/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/amedia1.png",A1 HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/AMEDIA1/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/amedia2.png",A2 HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/AMEDIA2/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/domkino.png",Дом кино
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/domkino/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/domkino-premium.png",Дом кино Премиум HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/domkinopremium/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/mosfilm.png",Мосфильм: золотая коллекция HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/mosfilmhd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/pobeda.png",Победа HD
+http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/POBEDA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/denpobedy.png",День Победы HD
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/DENPOBEDY/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/tvoetv.png",Твоё ТВ HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/tvoe_tv/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/premialnoe-hd.png",Премиальное HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/PREMIALNOE/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/komedijnoe-hd.png",Комедийное HD
+http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/komediinoe/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/kamedi.png",Камеди HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/COMEDY/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/pro-lyubov.png",Про любовь HD
+http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/prolubov/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/romantichnoe-hd.png",Романтичное HD
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/ROMANTIC/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/dushevnoe-hd.png",Душевное HD
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/DUSHEVNOE/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/kinopokaz.png",Кинопоказ HD
+http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/kinopokaz/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/nash-kinopokaz.png",Наш Кинопоказ HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/nashkinopokaz/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/nashehd.png",Наше HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/nashe/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/nashe-muzhskoe.png",Наше мужское HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/nashemuzhskoe/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/kinopremiera.png",Кинопремьера HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/KINOPREMIERA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/nashe-novoe-kino.png",Наше Новое кино HD
+http://cdn.ottiptv.fun:8880/bal_c3l8u2d4f9l1a3r7e3/nashenovoekino/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/kinokomedia.png",Кинокомедия HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/kinokomedia/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/kinomiks.png",Киномикс HD
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/KINOMIKS/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/kinosvidanie.png",Киносвидание HD
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/KINOSVIDANIE/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/kinosemia.png",Киносемья HD
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/KINOSEMYA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/muzhskoe-kino.png",Мужское кино HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/muzhskoekino/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/kinoseria.png",Киносерия HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/kinoseriya/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/kinouzhas.png",Киноужас HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/KinoUzas/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/strashnoe-hd.png",Страшное HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/STRASHNOE/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/shokiruyushchee.png",Шокирующее HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/shok/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/trashtv.png",Trash HD
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/TRASH/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/nst.png",НСТ
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/NST/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/sony-scifi.png",. Sci-Fi
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/SCIFI/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/ostrosiuzhetnoe-hd.png",Остросюжетное HD
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/OSTROSUJETNOE/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="https://ottiptv.ru/img/logos/films/kriminalnoe_hd.png",Криминальное HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/kriminalnoe_hd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/sovkino.png",Советское кино
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/SOVKINO/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/nashe-lubimoe-hd.png",Любимое HD
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/LUBIMOE/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/foxlife.png",Fox Life HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/FOXLIFE/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/fox.png",Fox HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/FOXHD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/kino-tv.png",Кино ТВ HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/kinotv/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/russky-roman.png",Русский Роман HD
+http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/RUSROMAN/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/russky-detektiv.png",Русский детектив
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/rdet/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/russky-bestseller.png",Русский Бестселлер
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/rusbest/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/russky-illuzion.png",Русский Иллюзион HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/rusiluzhd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="https://ottiptv.ru/img/logos/films/feniks-plus-kino.png",Феникс+Кино HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/fenix_plus_kino_hd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/kinosezon.png",Киносезон
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/kinosezon/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/start-air.png",START Air
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/start_air/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/start-world.png",START World
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/start_world/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/kinojam1.png",Киноджем 1 HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/KINOJAM1/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/kinojam2.png",Киноджем 2 HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/KINOJAM2/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://img.ottiptv.ru/inprogress.png",KION Хит HD
+http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/kion_hit_hd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://img.ottiptv.ru/inprogress.png",True Crime HD
+http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/true_crime_hd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/epik-drama.png",Epic Drama HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/epic_drama_hd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)" ,Сапфир HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/SAPHIR_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/timeless-dizi.png",Timeless Dizi Channel HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/dizi/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/dorama.png",Дорама HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/dorAmA_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)" ,Кинеко HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KINEKO_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/plan-b.png",Plan_B
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/plan_b/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="https://ottiptv.ru/img/logos/films/hollywood-hd.png",Hollywood HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/Hollywood_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/bollywood-hd.png",Bollywood HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/BOLLYWOOD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/cinema.png",Синема HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/cinema_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/cosmostv.png",Cinema Космос ТВ HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/cinemacosmos/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="https://ottiptv.ru/img/logos/kinoInt/star-cinema.png",Star Cinema HD RU
+http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/star_cinema_ru_hd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="https://ottiptv.ru/img/logos/kinoInt/star-family.png",Star Family HD RU
+http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/star_family_ru_hd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/kinomenu.png",Киноменю HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/a2lub21lbnU/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/klassika-kino.png",Классика Кино
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/movieclassic/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/bolt.png",Болт HD
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/BOLT/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/films/flixsnip.png",Flix Snip HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/flixsnip_hd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/Voennoe_Kino.png",Военное кино
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/VOENNOE_KINO/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/Det_Kino.png",Детское кино
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/DETSKOE_KINO/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/logo/Det_Kino_INT.png",Детское кино International
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/DETSKOE_KINO_INT/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/ukraina/1plus1.png",1+1 HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/1plus1_HD_UA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/ukraina/2plus2.png",2+2
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/2plus2/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/ukraina/enter-film.png",ENTER-фильм HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/enter_film_hd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/ukraina/ictv.png",ICTV
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/ICTV/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/ukraina/zoom.png",Zoom HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/ZOOM_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/ukraina/a1ua.png",A1 UA HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/A1_HD_UA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/ukraina/dacha.png",Дача HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/dAchA_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/ukraina/k1-ua.png",K1 HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/k1_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/ukraina/k2-ua.png",K2 HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/k2_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/ukraina/mega-ua.png",Мега HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/megA_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+
+
+#EXTINF:-1 group-title="РЕГ.РУ (VPN)"  tvg-logo="http://ottiptv.ru/img/logos/ukraina/tet.png",Тет HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/tet_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="MUSIC"  tvg-logo="http://ottiptv.ru/img/logos/music/bridge-hd.png",Bridge TV Deluxe HD
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/BRIDGEHD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="MUSIC"  tvg-logo="http://ottiptv.ru/img/logos/music/bridge-tv-ruxit.png",Bridge TV Русский хит
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/BRIDGERUSHIT/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="MUSIC"  tvg-logo="http://ottiptv.ru/img/logos/music/bridge-tv-classic.png",Bridge TV Classic
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/BRIDGECLASSIC/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="MUSIC"  tvg-logo="http://ottiptv.ru/img/logos/music/bridge-tv-shlager.png",Bridge TV Шлягер
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/BRIDGESHLYAGER/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="MUSIC"  tvg-logo="http://ottiptv.ru/img/logos/music/bridge-tv-fresh.png",Bridge Фрэш HD
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/BRIDGE_FRESH/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="MUSIC"  tvg-logo="http://ottiptv.ru/img/logos/music/tnt-music.png",ТНТ Music HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/tnt_Music_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="MUSIC"  tvg-logo="http://ottiptv.ru/img/logos/music/ru-tv.png",RU.TV HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/RUTVHD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="MUSIC"  tvg-logo="http://ottiptv.ru/img/logos/music/muztv.png",Муз ТВ
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/muztvhd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="MUSIC"  tvg-logo="http://ottiptv.ru/img/logos/music/russian-musicbox.png",Russian MusicBox HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/RUSSIANMUSICBOX/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="MUSIC"  tvg-logo="http://ottiptv.ru/img/logos/music/m1-ua.png",M1 HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/m1_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="MUSIC"  tvg-logo="http://ottiptv.ru/img/logos/music/m2-ua.png",M2 HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/m2_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://bolgarskij-jazyk.ru/i/tv/dstv.png",DSTV
+http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://tv.359hiphop.com/wp-content/uploads/2022/06/359_OnlineHipHopTV_Black-300x171.png",Хип Хоп 359 TV
+https://cdn3.invivo.bg/359t/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://euroindiemusic.info/wp-content/uploads/2021/06/Aqua-Play-Icon-Personal-Logo-700x700.png",Euro Indie Music Chart TV
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://w7.pngwing.com/pngs/77/795/png-transparent-nrj-hits-internet-radio-television-music-hits-television-text-logo-thumbnail.png",NRJ TV Hits
+https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w2023413974_b3268608.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.postimg.cc/6q7n3VRL/unnamed.jpg",DMC MUSIC TV
+https://m3url.ru/dmc-music.m3u
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://epg.it999.ru/img/4673.png",Deejay TV
+https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b2816000.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://epg.it999.ru/img2/6190.png",HIT Music
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://steelbirdmusic.tv/assets/images/logo1.png",Steelbird Music TV
+http://cdn25.live247stream.com/steelbirdmusic/tv/steelbirdmusic/live/chunks.m3u8
+#EXTINF:-1 group-title="MUSIC"  tvg-logo="http://ottiptv.ru/img/logos/films/khit.png",Хит HD
+http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/HIT/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://epg.it999.ru/img/1021.png",MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://epg.it999.ru/img2/5481.png",MTV Biggest Pop HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://epg.it999.ru/img2/5482.png",MTV Block Party HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://ottbill.cc/storage/images/channels/5f5bde57190075cda5f9659c7baaa8b1.png",MTV Spanking New HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://antifriztv.com/storage/images/pack_logos/f2bba990bb3a4c86eee6ac3e8c3db854.png",Shant Music
+http://5.188.172.179/Shant-Music/index.m3u8
+#EXTINF:-1 group-title="MUSIC",1HD
+http://live-1.otcnet.ru/onehdweb/tracks-v1a1/mono.m3u8
